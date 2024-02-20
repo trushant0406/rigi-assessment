@@ -11,7 +11,7 @@ const videos: VideoObject[] =
           "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         ],
         "subtitle": "By Blender Foundation",
-        "thumb": "/src/assets/images/BigBuckBunny.jpg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
         "title": "Big Buck Bunny"
       },
       {
@@ -22,7 +22,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
         ],
         "subtitle": "By Blender Foundation",
-        "thumb": "/src/assets/images/ElephantsDream.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
         "title": "Elephant Dream"
       },
       {
@@ -32,7 +32,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
         ],
         "subtitle": "By Google",
-        "thumb": "/src/assets/images/ForBiggerBlazes.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
         "title": "For Bigger Blazes"
       },
       {
@@ -42,7 +42,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
         ],
         "subtitle": "By Google",
-        "thumb": "/src/assets/images/ForBiggerEscapes.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
         "title": "For Bigger Escape"
       },
       {
@@ -52,7 +52,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
         ],
         "subtitle": "By Google",
-        "thumb": "/src/assets/images/ForBiggerFun.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
         "title": "For Bigger Fun"
       },
       {
@@ -62,7 +62,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
         ],
         "subtitle": "By Google",
-        "thumb": "/src/assets/images/ForBiggerJoyrides.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
         "title": "For Bigger Joyrides"
       },
       {
@@ -72,7 +72,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
         ],
         "subtitle": "By Google",
-        "thumb": "/src/assets/images/ForBiggerMeltdowns.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
         "title": "For Bigger Meltdowns"
       },
       {
@@ -82,7 +82,7 @@ const videos: VideoObject[] =
           "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
         ],
         "subtitle": "By Blender Foundation",
-        "thumb": "/src/assets/images/Sintel.jpeg",
+        "thumb": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
         "title": "Sintel"
       }
     ];
