@@ -36,7 +36,7 @@ Simple Video Player App
 ## Getting started
 
 #### vercel deployment:
-https://rigi-assessment-test-6z3vn81td-trushants-projects.vercel.app/
+[https://rigi-assessment-test-6z3vn81td-trushants-projects.vercel.app/](https://rigi-assessment-test.vercel.app/)
 
 
 To run the project:
