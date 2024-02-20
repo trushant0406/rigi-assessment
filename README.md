@@ -35,6 +35,10 @@ Simple Video Player App
 
 ## Getting started
 
+#### vercel deployment:
+https://rigi-assessment-test-6z3vn81td-trushants-projects.vercel.app/
+
+
 To run the project:
 
 1. Install the dependencies
@@ -43,13 +47,7 @@ To run the project:
 npm install # Or use yarn
 ```
 
-2. To run the backend:
-
-```sh
-npm run db
-```
-
-3. To run the frontend:
+2. To run the frontend:
 
 ```sh
 npm run dev
